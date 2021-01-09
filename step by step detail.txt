@@ -1,0 +1,24 @@
+1.XAMPP is an abbreviation for cross-platform, Apache, MySQL, PHP and Perl, and it allows 
+you to build WordPress site offline, on a local web server on your computer.
+
+2.After completion of the installation, you can use the XAMPP Control Panel to start/ stop all servers.
+Start Mysql and Apache servers.
+
+
+3.Copy file.php to htdocs (C:/Program Files/XAMPP/htdocs)
+You can also create any folders inside htdocs folder and save our codes over there.
+In order to get the dashboard for localhost: search http://localhost in any browser.
+
+4.  Now to run your code, open localhost/file.php then it gets executed.
+
+5. It displays first page to create invoice. to create a inoice enter  invoice no.,date, name,address,sr.no,quantity,price.
+  It automatically calculates the price according to quantity and total amount will be shown.By using + you can add multiple rows.
+
+6. All the data is stored in database.we have options edit to alter the data and delete the records.
+              
+
+
+                                                    Thank you.
+
+
+
